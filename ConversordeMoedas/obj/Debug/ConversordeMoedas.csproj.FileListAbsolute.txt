@@ -1,0 +1,10 @@
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\bin\Debug\ConversordeMoedas.exe.config
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\bin\Debug\ConversordeMoedas.exe
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\bin\Debug\ConversordeMoedas.pdb
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\obj\Debug\ConversordeMoedas.csprojAssemblyReference.cache
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\obj\Debug\ConversordeMoedas.Form1.resources
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\obj\Debug\ConversordeMoedas.Properties.Resources.resources
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\obj\Debug\ConversordeMoedas.csproj.GenerateResource.cache
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\obj\Debug\ConversordeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\obj\Debug\ConversordeMoedas.exe
+C:\Users\jean-\source\repos\ConversordeMoedas\ConversordeMoedas\obj\Debug\ConversordeMoedas.pdb
